@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_height="match_parent"
+    tools:context=".activity.MainActivity">
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnContactList"
+        android:layout_width="288dp"
+        android:layout_height="65dp"
+        android:backgroundTint="#F4511E"
+        android:text="Contact List"
+        android:textSize="11sp"
+        app:cornerRadius="8dp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnAddContact"
+        android:layout_width="288dp"
+        android:layout_height="65dp"
+        android:backgroundTint="#F4511E"
+        android:text="Add Contact"
+        android:textSize="11sp"
+        app:cornerRadius="8dp" />
+
+</LinearLayout>

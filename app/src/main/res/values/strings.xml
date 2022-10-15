@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Contact App</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="add_movie">Add Movie</string>
+    <string name="movie_list">Movie List</string>
+    <string name="akbarjon">Akbarjon</string>
+    <string name="_998932540570">+998932540570</string>
+    <string name="contact_list">Contact List</string>
+    <string name="text">Send SMS</string>
+    <string name="telefon_raqam">Telefon raqam</string>
+</resources>
